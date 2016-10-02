@@ -132,5 +132,6 @@ a {
 }
 
 .navbar-nav {
-  width:72px;
+  width:144px;
+  border: 1px solid black;
 }
