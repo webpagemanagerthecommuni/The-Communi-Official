@@ -131,3 +131,7 @@ a {
     background: #0094BC;
 }
 
+.navbar-nav {
+  width: 800px;
+}
+
