@@ -130,3 +130,7 @@ a {
 .social .fa-linkedin:hover {
     background: #0094BC;
 }
+
+.navbar-nav {
+  width:72px;
+}
