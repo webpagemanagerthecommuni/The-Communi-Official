@@ -90,6 +90,21 @@ a {
 #clockbox {
   float: left;
 }
+@media screen and (min-width: 981px) {
+  #clockbox {
+    font-size: 20px; } }
+
+@media screen and (min-width: 768px) and (max-width: 980px) {
+  #clockbox {
+    font-size: 15px; } }
+
+@media screen and (min-width: 500px) and (max-width: 767px) {
+  #clockbox {
+    font-size: 12px; } }
+
+@media screen and (max-width: 499px) {
+  #clockbox {
+    font-size: 8px; } }
 
 .social {
     padding: 10px 5px 10px 5px;
