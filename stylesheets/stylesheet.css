@@ -99,7 +99,8 @@ a {
     background-color: #909AA0;
     font-size: 20px;
     text-align:center;
-    padding: 10px 11px 10px 11px;
+    margin: 10px 5px 10px 5px;
+    padding: 10px;
     border-radius: 5%;
     -moz-border-radius: 5%;
     -webkit-border-radius: 5%;
