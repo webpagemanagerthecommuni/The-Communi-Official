@@ -196,5 +196,13 @@ a {
  #box5{
   background-color: #FFEBCD; 
 }
+ .line-separator{
 
+height:1px;
+
+background: #BC8F8F;
+
+border-bottom:1px solid #313030;
+
+}
 
