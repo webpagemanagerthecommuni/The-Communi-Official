@@ -160,16 +160,31 @@ a {
 }
 
 /* Main Content CSS */
-
-
+ @media screen and (min-width: 981px) {
   .row{
       margin: 0 auto;
       text-align: left;
-      width: 900px;}
+      width: 950px;} }
 
+@media screen and (min-width: 768px) and (max-width: 980px) {
+  .row{
+      margin: 0 auto;
+      text-align: left;
+      width: 750px;} }
 
+@media screen and (min-width: 500px) and (max-width: 767px) {
+  .row{
+      margin: 0 auto;
+      text-align: left;
+      width: 450px;} }
 
+@media screen and (max-width: 499px) {
+ .row{
+      margin: 0 auto;
+      text-align: left;
+      width: 300px;}}
 
+  
 #box1, #box2, #box3, #box4, #box5, #box6 {
   padding: 10px;
   margin: 5px;
