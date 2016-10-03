@@ -88,7 +88,7 @@ a {
     font-size: 8px; } }
 
 .social {
-    padding: 10px;
+    padding: 10px 5px 10px 5px;
     float: right;
 }
 
@@ -99,7 +99,7 @@ a {
     background-color: #909AA0;
     font-size: 20px;
     text-align:center;
-    margin: 10px 5px 10px 5px;
+    margin: 0px 5px 0px 5px;
     padding: 10px;
     border-radius: 5%;
     -moz-border-radius: 5%;
