@@ -9,6 +9,10 @@ body {
   line-height: 1;
   color: #606c71; }
 
+a{
+  color: white;
+  text-decoration: none;
+}
 
 a:hover {
     color: orange;
