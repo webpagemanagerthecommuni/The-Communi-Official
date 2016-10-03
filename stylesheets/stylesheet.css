@@ -162,8 +162,10 @@ a {
 /* Main Content CSS */
 
 .row{
-  margin: 20px;
-  padding: 20px;
+  margin-left: 20px;
+  padding-left: 20px;
+  margin-right: 10px;
+  padding-right: 10px;
 }
 
 #box1, #box2, #box3, #box4, #box5, #box6 {
