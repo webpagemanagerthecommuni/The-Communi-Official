@@ -205,16 +205,12 @@ background: #BC8F8F;
 border-bottom:1px solid #313030;
 
 }
-
-#footer{
+ #footer{
       padding: 10px;
-      margin: 10px;
       color: white;
-      text-align: center;
       background-color: #159957;
-      background-image: linear-gradient(120deg, #155799, #159957); 
-      
-}
+      background-image: linear-gradient(120deg, #155799, #159957);
+      }
 
 ul, li {
        list-style-type: none;
@@ -223,7 +219,7 @@ ul, li {
 #last{
       border: 1px solid white;
       background-color: maroon;
-      padding: 10px;
-      margin: 10px;
+      padding: 0px;
+      margin: 0px;
 }
 
