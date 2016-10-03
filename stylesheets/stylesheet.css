@@ -16,6 +16,8 @@ a {
   a:hover {
     text-decoration: underline; }
 
+/* Navbar CSS */
+
 .page-header {
   color: #fff;
   text-align: center;
@@ -153,6 +155,15 @@ a {
     background: #0094BC;
 }
 
+.social .fa-google-plus:hover { 
+    background: #e64522;
+}
 
+/* Main Content CSS */
+
+#box1, #box2, #box3, #box4, #box5, #box6 {
+  padding: 10px;
+  margin: 10px;
+}
 
 
