@@ -216,3 +216,7 @@ border-bottom:1px solid #313030;
       
 }
 
+ul, li {
+       list-style-type: none;
+}
+
