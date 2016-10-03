@@ -161,12 +161,36 @@ a {
 
 /* Main Content CSS */
 
-.row{
+@media screen and (min-width: 981px) {
+ .row{
+  margin-left: 40px;
+  padding-left: 30px;
+  margin-right: 10px;
+  padding-right: 10px;} }
+
+@media screen and (min-width: 768px) and (max-width: 980px) {
+ .row{
   margin-left: 30px;
   padding-left: 30px;
   margin-right: 10px;
-  padding-right: 10px;
-}
+  padding-right: 10px;} }
+
+@media screen and (min-width: 500px) and (max-width: 767px) {
+ .row{
+  margin-left: 20px;
+  padding-left: 10px;
+  margin-right: 10px;
+  padding-right: 10px;} }
+
+@media screen and (max-width: 499px) {
+  .row{
+  margin-left: 10px;
+  padding-left: 0px;
+  margin-right: 10px;
+  padding-right: 0px;} }
+
+
+
 
 #box1, #box2, #box3, #box4, #box5, #box6 {
   padding: 30px;
