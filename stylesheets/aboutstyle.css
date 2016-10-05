@@ -171,37 +171,42 @@ a:hover {
       margin: 0 auto;
       padding: 10px;
       text-align: left;
-      border: 1px solid silver;
+      border: 1px solid black;
       width: 950px;} }
 
 @media screen and (min-width: 768px) and (max-width: 990px) {
-   section {
+   #main {
       margin: 0 auto;
       padding: 10px;
       text-align: left;
+       border: 1px solid black;
       width: 750px;} }
 
 @media screen and (min-width: 500px) and (max-width: 767px) {
-   section {
+   #main {
       margin: 0 auto;
       padding: 10px;
       text-align: left;
+       border: 1px solid black;
       width: 450px;} }
 
 @media screen and (max-width: 499px) {
-  section {
+  #main {
       margin: 0px auto;
       padding: 10px;
       text-align: left;
+      border: 1px solid black;
       width: 300px;}}
 
   
 
- #box2, ##box4{
+ #box2, #box4{
   background-color: #FFDEAD;  
+   border: 1px solid black;
 }
  #box1, #box3, #box5{
   background-color: #FFEBCD; 
+   border: 1px solid black;
 }
  
 .line-separator{
