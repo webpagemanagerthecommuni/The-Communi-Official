@@ -167,7 +167,7 @@ a:hover {
 
 /* Main Content CSS */
  @media screen and (min-width: 991px) {
-  #box1, #box2, #box3, #box4, #box5 {
+  section {
       margin: 0 auto;
       padding: 10px;
       text-align: left;
@@ -175,32 +175,32 @@ a:hover {
       width: 950px;} }
 
 @media screen and (min-width: 768px) and (max-width: 990px) {
-   #box1, #box2, #box3, #box4, #box5 {
+   section {
       margin: 0 auto;
       padding: 10px;
       text-align: left;
       width: 750px;} }
 
 @media screen and (min-width: 500px) and (max-width: 767px) {
-   #box1, #box2, #box3, #box4, #box5 {
+   section {
       margin: 0 auto;
       padding: 10px;
       text-align: left;
       width: 450px;} }
 
 @media screen and (max-width: 499px) {
-  #box1, #box2, #box3, #box4, #box5 {
-      margin: 0 auto;
+  section {
+      margin: 0px auto;
       padding: 10px;
       text-align: left;
       width: 300px;}}
 
   
 
- #box2{
+ #box2, ##box4{
   background-color: #FFDEAD;  
 }
- #box5{
+ #box1, #box3, #box5{
   background-color: #FFEBCD; 
 }
  
