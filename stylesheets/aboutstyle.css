@@ -167,7 +167,7 @@ a:hover {
 
 /* Main Content CSS */
  @media screen and (min-width: 991px) {
-  section {
+  #main {
       margin: 0 auto;
       padding: 10px;
       text-align: left;
