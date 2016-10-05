@@ -167,28 +167,28 @@ a:hover {
 
 /* Main Content CSS */
  @media screen and (min-width: 991px) {
-  #main {
+  .main {
       margin: 0 auto;
       padding: 10px;
       text-align: left;
       width: 950px;} }
 
 @media screen and (min-width: 768px) and (max-width: 990px) {
-   #main {
+   .main {
       margin: 0 auto;
       padding: 10px;
       text-align: left;
       width: 750px;} }
 
 @media screen and (min-width: 500px) and (max-width: 767px) {
-   #main {
+   .main {
       margin: 0 auto;
       padding: 10px;
       text-align: left;
       width: 450px;} }
 
 @media screen and (max-width: 499px) {
-  #main {
+  .main {
       margin: 0 auto;
       padding: 10px;
       text-align: left;
