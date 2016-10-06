@@ -13,13 +13,6 @@ body {
   line-height: 1;
   color: #606c71; }
 
-header{
- margin: 0;
-}
-
-.navbar-inverse {
-   margin: 0;
-}
 
 a{
   color: white;
@@ -246,22 +239,3 @@ ul, li {
       margin: 0px;
 }
 
-/* Extra CSS */
-header {
-    float: left;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-}
-ul {
-    float: left;
-    list-style: none;
-    position: relative;
-    left: 50%;
-}
-li {
-    display: block;
-    float: left;
-    position: relative;
-    right: 50%;
-}
