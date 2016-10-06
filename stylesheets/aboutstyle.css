@@ -237,3 +237,23 @@ ul, li {
       padding: 10px;
       margin: 0px;
 }
+
+/* Extra CSS */
+header {
+    float: left;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+ul {
+    float: left;
+    list-style: none;
+    position: relative;
+    left: 50%;
+}
+li {
+    display: block;
+    float: left;
+    position: relative;
+    right: 50%;
+}
