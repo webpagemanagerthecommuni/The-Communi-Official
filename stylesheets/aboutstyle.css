@@ -194,6 +194,11 @@ a:hover {
       text-align: left;
       width: 300px;}}
 
+#heading {
+      font-size: 200%;
+      font-weight: bold;
+}
+
   
 
  #box2, #box4{
