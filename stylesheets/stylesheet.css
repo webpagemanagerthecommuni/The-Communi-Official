@@ -9,18 +9,12 @@ body {
   line-height: 1;
   color: #606c71; }
 
-a {
-  color: white;
-}
-
-a:hover {
-  color: white;
-}
 
 /* Navbar CSS */
 
 .page-header {
   color: #fff;
+  margin: 0px;
   text-align: center;
   background-color: #159957;
   background-image: linear-gradient(120deg, #155799, #159957); }
@@ -223,4 +217,15 @@ ul, li {
       padding: 10px;
       margin: 0px;
 }
+
+/*hyperlinks*/
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: white;
+}
+
 
