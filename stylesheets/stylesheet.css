@@ -9,6 +9,14 @@ body {
   line-height: 1;
   color: #606c71; }
 
+a {
+  color: white;
+}
+
+a:hover {
+  color: white;
+}
+
 /* Navbar CSS */
 
 .page-header {
