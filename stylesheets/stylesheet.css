@@ -204,6 +204,11 @@ h1, h4 {
   color: black;
   font-weight:bold;
 }
+
+h5{
+  color: #2F4F4F;
+}
+
 #box1, #box2, #box3, #box4, #box5, #box6 {
   padding: 10px;
   margin: 5px;
