@@ -14,6 +14,7 @@ body {
 
 .page-header {
   color: #fff;
+  text-decoration: none;
   margin: 0px;
   text-align: center;
   background-color: #159957;
@@ -152,6 +153,10 @@ body {
 
 .social .fa-google-plus:hover { 
     background: #e64522;
+}
+
+.navbar {
+   margin: 0 auto;
 }
 
 /* Main Content CSS */
